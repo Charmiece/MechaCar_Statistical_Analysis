@@ -47,4 +47,4 @@ Maintenance costs – the price of maintaining the vehicle should be considered.
 Null hypothesis would be there is no difference between the competitor and MechaCar.
 ANOVA test would best test the differences between multiple samples.
 I would need the prices for popular maintenance costs for each car type.
-![image](https://user-images.githubusercontent.com/93438483/157384843-4a222a07-6aeb-4f4c-8481-5d8acbc12b8b.png)
+
